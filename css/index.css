@@ -1,0 +1,42 @@
+.menu,.footer{
+    background-color: rgb(10, 10, 36);
+}
+.footer-heading,.footer-paragraph{
+    color: white;
+}
+.footer-hr{
+    border: 1px solid white;
+}
+.lower-footer{
+    background-color: rgb(11, 11, 20);
+}
+h6{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+form{
+    background-color: rgb(7, 7, 40);
+    padding: 15px;
+    border-radius: 15px;
+    border: 2px solid black;
+}
+label{
+    font-weight: bold;
+    color: white;
+    font-size: 18px;
+}
+input,textarea,button{
+    margin: 1px 0;
+}
+.buttons{
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h2{
+    color: rgb(3, 3, 44);
+}
+body{
+    background-color: lightblue;
+}

@@ -1,0 +1,15 @@
+.menu,.footer{
+    background-color: rgb(0, 0, 46);
+}
+.footer-heading,.footer-paragraph{
+    color: white;}
+    .footer-hr{
+        border: 1px solid white;
+    }
+    .lower-footer{
+        background-color: darkblue;
+    }
+    h6{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
